@@ -7,7 +7,7 @@ from telegram.ext import (
     ContextTypes, CommandHandler
 )
 
-TOKEN = 8443660295:AAFd8j_vtt0rEoFpvCIV_FFZV-iTlV9TDGo
+TOKEN =  8443660295:AAFqgx4NYi7jICIDreqsXIQXCshqAT1U8Vg
 
 # Her kullanıcı için: {user_id: [mesaj listesi]}
 user_consecutive = defaultdict(list)   # Arka arkaya mesaj takibi
